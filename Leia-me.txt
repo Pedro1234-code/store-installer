@@ -1,0 +1,9 @@
+Cole esse comando no powershell (administrador) e dê enter:
+
+Set-ExecutionPolicy Unrestricted
+
+Aperte "A" sem aspas e dê enter
+
+Depois com o botão direito do mouse clique no "Execute.ps1" e então clique em "Executar com powershell"
+
+Se aparecer cliquem em "a" sem aspas de novo e depois enter
